@@ -38,12 +38,12 @@
 ---
 
 ## 📂 프로젝트 구조
-📦 Gyeonggi-Population-Analysis
-┣ 📜 Project20250528.ipynb       # 데이터 분석 및 시각화 코드
-┣ 📂 data                           # 원본 데이터 파일
-┃ ┣ 📜 202504_주민등록인구기타현황(고령 인구현황).csv
-┃ ┗ 📜 의원현황(의원급).csv
-┗ 📜 README.md                     # 프로젝트 설명 문서
+📦 Gyeonggi-Population-Analysis  
+┣ 📜 Project20250528.ipynb       # 데이터 분석 및 시각화 코드  
+┣ 📂 data                           # 원본 데이터 파일  
+┃ ┣ 📜 202504_주민등록인구기타현황(고령 인구현황).csv  
+┃ ┗ 📜 의원현황(의원급).csv  
+┗ 📜 README.md                     # 프로젝트 설명 문서  
 
 ---
 
